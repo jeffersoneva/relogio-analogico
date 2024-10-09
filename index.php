@@ -43,7 +43,7 @@
         </div>
 
         <div class="footer">
-            Copyright&copy; - <a href="https://www.jeffersoneva.com">www.jeffersoneva.com</a> <?php echo date("Y"); ?>
+            Copyright&copy; - <a href="https://www.agremak.com" target="_blank">agremak.com</a> <?php echo date("Y"); ?>
         </div>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
