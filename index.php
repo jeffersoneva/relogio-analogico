@@ -17,21 +17,24 @@
         <meta charset="UTF-8" />
         
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no" />
-        <meta name="description" content="Relógio Analógico, desenvolvido por Jefferson Eva" />
-        <meta name="author" content="Jefferson Eva" />
-        <meta name="keywords" content="relogio, web, desenvolvimento, html, relogio analogico">
+        <meta name="author" content="Agremak, Jefferson Eva (CEO)" />
+        <meta name="robots" content="index, follow">
 
 		<meta name="theme-color" content="#2F4858">
 		<meta name="apple-mobile-web-app-status-bar-style" content="#2F4858">
 		<meta name="msapplication-navbutton-color" content="#2F4858">
 
         <link rel="preload" href="css/estilo.css" as="style">
-        <link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" as="script">
+        <link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" as="script">
         <link rel="preload" href="js/relogio.js" as="script">
 		
 		<link rel="stylesheet" href="css/estilo.css">
 
-        <title>Relógio Analógico - by Jefferson Eva</title>
+        <link rel="icon" href="https://www.agremak.com/img/favicons/favicon-16.png" sizes="16x16">
+		<link rel="icon" href="https://www.agremak.com/img/favicons/favicon-32.png" sizes="32x32">
+		<link rel="icon" href="https://www.agremak.com/img/favicons/favicon-64.png" sizes="64x64">
+
+        <title>Relógio Analógico - by Agremak</title>
         
     </head>
 
@@ -43,7 +46,7 @@
         </div>
 
         <div class="footer">
-            Copyright&copy; - <a href="https://www.agremak.com" target="_blank">agremak.com</a> <?php echo date("Y"); ?>
+            <a href="https://www.agremak.com" target="_blank">agremak.com</a> <?php echo date("Y"); ?>
         </div>
         
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" type="text/javascript"></script>
