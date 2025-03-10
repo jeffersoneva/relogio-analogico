@@ -1,13 +1,10 @@
 <?php
-
     //Definindo a configuração de caracteres
 	header('Content-type: text/html; charset=utf-8');
 
 	//Define Local e Timezone
 	setlocale(LC_TIME, 'pt_BR', 'pt_BR.utf-8', 'pt_BR.utf-8', 'portuguese');
 	date_default_timezone_set('America/Sao_Paulo');
-
-
 ?>
 <!doctype html>
 <html lang="pt-br">
@@ -20,9 +17,9 @@
         <meta name="author" content="Agremak, Jefferson Eva (CEO)" />
         <meta name="robots" content="index, follow">
 
-		<meta name="theme-color" content="#2F4858">
-		<meta name="apple-mobile-web-app-status-bar-style" content="#2F4858">
-		<meta name="msapplication-navbutton-color" content="#2F4858">
+		<meta name="theme-color" content="#2274A5">
+		<meta name="apple-mobile-web-app-status-bar-style" content="#2274A5">
+		<meta name="msapplication-navbutton-color" content="#2274A5">
 
         <link rel="preload" href="css/estilo.css" as="style">
         <link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" as="script">
